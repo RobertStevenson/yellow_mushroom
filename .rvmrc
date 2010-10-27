@@ -1,0 +1,3 @@
+rvm ree@ym
+PS1="[\u@\h $(~/.rvm/bin/rvm-prompt) $PWD]\$ "
+rvm info
