@@ -12,4 +12,9 @@ group :test do
   gem 'rspec'
   gem 'capybara'
   gem 'launchy'
+  gem 'cucumber'
+  gem 'cucumber-rails'
+  gem 'database_cleaner'
+  gem 'spork'
+  gem 'autotest'
 end
